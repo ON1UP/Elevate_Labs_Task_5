@@ -40,3 +40,11 @@ Gained hands-on experience in:
 - Capturing live traffic using Wireshark.
 - Filtering packets using protocol-based filters.
 - Understanding the role of each protocol in network communication.
+## Here are some screen shots of the above
+![Screenshot 2025-06-06 200640](https://github.com/user-attachments/assets/5ed25911-05e2-4ee4-89b0-f511f2b5bd85)
+![Screenshot 2025-06-06 200656](https://github.com/user-attachments/assets/b646f0b7-ec86-437a-8c6f-c0544746503c)
+![Screenshot 2025-06-07 004506](https://github.com/user-attachments/assets/1d3aa39b-84a5-42cd-a4ed-460070375a8f)
+
+
+
+
